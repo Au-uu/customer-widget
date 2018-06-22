@@ -1,0 +1,1 @@
+cutomer widget basiced jquery
